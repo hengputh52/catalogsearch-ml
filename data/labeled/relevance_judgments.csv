@@ -1,0 +1,21 @@
+query_id,query,product_id,relevance
+1,wireless headphones,P102,3
+1,wireless headphones,P103,2
+1,wireless headphones,P110,1
+1,wireless headphones,P054,0
+2,iphone 15 pro max,P001,3
+2,iphone 15 pro max,P002,2
+2,iphone 15 pro max,P007,1
+2,iphone 15 pro max,P031,0
+3,65w usb-c charger,P201,3
+3,65w usb-c charger,P205,2
+3,65w usb-c charger,P210,1
+3,65w usb-c charger,P102,0
+4,gaming laptop rtx 4060,P301,3
+4,gaming laptop rtx 4060,P305,3
+4,gaming laptop rtx 4060,P312,1
+4,gaming laptop rtx 4060,P001,0
+5,20000mah power bank,P401,3
+5,20000mah power bank,P402,2
+5,20000mah power bank,P410,1
+5,20000mah power bank,P201,0

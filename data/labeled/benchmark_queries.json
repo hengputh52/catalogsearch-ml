@@ -1,0 +1,12 @@
+[
+  {"query": "best laptop under $1000", "expected_product_ids": ["P301", "P305", "P312"], "intent": "info"},
+  {"query": "iPhone 15 Pro Max", "expected_product_ids": ["P001", "P002"], "intent": "search"},
+  {"query": "sony wh-1000xm5", "expected_product_ids": ["P102"], "intent": "search"},
+  {"query": "which power bank can charge a laptop?", "expected_product_ids": ["P401", "P402"], "intent": "info"},
+  {"query": "anker 65w usb-c charger", "expected_product_ids": ["P201", "P205"], "intent": "search"},
+  {"query": "are noise cancelling headphones worth it for flights?", "expected_product_ids": ["P102", "P103"], "intent": "info"},
+  {"query": "gaming laptop rtx 4060", "expected_product_ids": ["P301", "P305"], "intent": "search"},
+  {"query": "what is the difference between gan and regular chargers?", "expected_product_ids": ["P201", "P210"], "intent": "info"},
+  {"query": "20000mah power bank", "expected_product_ids": ["P401", "P402", "P410"], "intent": "search"},
+  {"query": "should I get a phone with 128gb or 256gb storage?", "expected_product_ids": ["P001", "P007"], "intent": "info"}
+]
