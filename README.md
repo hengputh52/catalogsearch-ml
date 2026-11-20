@@ -14,7 +14,7 @@ The project follows seven steps. Each step has a folder in `src/catalogsearch/`,
 
 | # | Step | Code | Notebook | Task |
 |---|---|---|---|---|
-| 1 | Data collection | `data_collection/` | `01_data_collection` | Products are already scraped (see [Data](#data)). Load them into Postgres. Label queries as `search`/`info`. Write relevance judgments. |
+| 1 | Data collection | `data_collection/` | `01_data_collection` | Products are already scraped (see [Data](#data)). The notebook is a sample scraper for one store (ptc-computer.com.kh) that outputs the same format. |
 | 2 | Data analysis | `data_analysis/` | `02_data_analysis` | Explore the catalog and the labelled queries. Find data quality problems. |
 | 3 | Data preprocessing | `preprocessing/` | `03_data_preprocessing` | Clean products. Build the text pipeline. Extract classifier features. |
 | 4 | Model training | `training/` | `04_model_training` | Train the classifier (Logistic Regression first, then SVM and Random Forest). Build the search indices. |
